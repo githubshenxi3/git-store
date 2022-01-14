@@ -22,5 +22,4 @@ shenxi
 shenxi
 shenxi
 shenxi
-shenxi   333333333333333
-hello git 
+shenxi   333333
