@@ -1,19 +1,8 @@
-llo shangguigu!hello git!
-hello shangguigu!hello git!
-hello shangguigu!hello git!
-hello shangguigu!hello git!
-hello shangguigu!hello git!
-hello shangguigu!hello git!
-hello shangguigu!hello git!
-hello shangguigu!hello git!
-hello shangguigu!hello git!
+ello shangguigu!hello git!
 hello shangguigu!hello git!
 hello shangguigu!hello git!      ssssssssssssssss
 hello shangguigu!hello git!          1112223334
 hello shangguigu!hello git!         2222222
-hello shangguigu!hello git!
-hello shangguigu!hello git!
-hello shangguigu!hello git!
 hello shangguigu!hello git!
 hello shangguigu!hello git!
 hello shangguigu!hello git!    master test2
@@ -22,4 +11,6 @@ hello shangguigu!hello git!    1111111
 ello shangguigu!hello git!     hot-fix test
 hello
 1111111111111111111111
-    git-clone-store
+
+git-clone-store  
+git-clone-shyenxi-store-3 222222222222222222222
