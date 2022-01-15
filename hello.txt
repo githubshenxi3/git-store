@@ -1,4 +1,4 @@
-llo shangguigu!hello git!
+lo shangguigu!hello git!
 hello shangguigu!hello git!
 hello shangguigu!hello git!
 hello shangguigu!hello git!
@@ -23,3 +23,4 @@ ello shangguigu!hello git!     hot-fix test
 hello
 1111111111111111111111
     git-clone-store
+    git-clone-shenxi-store-modified-file 111111111111111111
